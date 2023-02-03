@@ -1,4 +1,4 @@
-package com.icr.springdatajpatutorialcretu.entity.Student;
+package com.icr.springdatajpatutorialcretu.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
